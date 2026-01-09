@@ -6,8 +6,7 @@
 - **CCID:** `mashahin`
 
 ## References and Resources
-
-List any resources used here, or simply put `ChatGPT` if not applicable.
+- OpenAI, ChatGPT, prompt: "Implement an abstract class with Date, getters/setters, constructors, and subclasses for it in Java", 2026-01-09.
 
 ## Verbal Collaboration
 
