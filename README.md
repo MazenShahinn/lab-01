@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Mazen Shahin`
+- **CCID:** `mashahin`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+List any resources used here, or simply put `ChatGPT` if not applicable.
 
 ## Verbal Collaboration
 
